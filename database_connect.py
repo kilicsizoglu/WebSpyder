@@ -10,7 +10,7 @@ class database_connect:
         connect(
             db='web_spyder',
             username='kilicsizoglu',
-            password='0900TGByhn.,!',
+            password='',
             authentication_source='admin',
             host='127.0.0.1',
             port=27017,
